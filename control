@@ -1,0 +1,9 @@
+Package: com.34306.banned
+Name: banned
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Huy Nguyen
+Author: Huy Nguyen
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
